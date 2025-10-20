@@ -9,7 +9,7 @@
 - 🧠 Skilled in **Python, SQL, Machine Learning, NLP, Computer Vision, and Data Visualization**  
 - 🧬 Background in **Clinical Laboratory Science & Molecular Diagnostics** with leadership experience building lab operations from the ground up  
 - 🚀 Graduate of **TripleTen’s Data Science Program**, specializing associated concepts like **predictive modeling and data analytics**  
-- 💡 Currently focused on applying and learning more about **AI, Machine Learning and the finer details of Data Science** to improve diagnostic efficiency and patient outcomes  
+- 💡 Currently focused on applying and learning more about **AI, Machine Learning, Bioinformatics, and the finer details of Data Science** to improve diagnostic efficiency and patient outcomes  
 - 💪 When not coding, I’m training for my next **Muay Thai or MMA session** — discipline fuels everything I do  
 
 ---
@@ -18,7 +18,7 @@
 **Languages:** Python, SQL  
 **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn, Plotly  
 **Tools:** Jupyter Notebook, Git, Power BI, Tableau  
-**Specialties:** Machine Learning, Data Visualization, NLP, Computer Vision, Time Series Analysis, Bioinformatics  
+**Specialties:** Machine Learning, Data Visualization, NLP, Computer Vision, Time Series Analysis  
 
 ---
 
