@@ -10,7 +10,7 @@ Passionate about bridging healthcare and technology through data-driven insights
 - Background in **Clinical Laboratory Science & Molecular Diagnostics** with leadership experience building lab operations from the ground up  
 - Graduate of **TripleTen’s Data Science Program**, specializing associated concepts like **predictive modeling and data analytics**  
 - Currently focused on applying and learning more about **AI, Machine Learning, Bioinformatics, and the finer details of Data Science** to improve diagnostic efficiency and patient outcomes  
-- When not coding, I’m training for my next **Muay Thai or MMA session** — discipline fuels everything I do  
+- When not coding, I’m training for my next **Muay Thai or MMA fight** — discipline fuels everything I do  
 
 ---
 
